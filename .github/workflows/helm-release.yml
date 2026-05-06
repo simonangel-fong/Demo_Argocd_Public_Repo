@@ -1,4 +1,5 @@
 name: Release Helm Chart
+run-name: Helm release
 
 on:
   push:
