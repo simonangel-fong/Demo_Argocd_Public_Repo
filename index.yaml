@@ -3,6 +3,16 @@ entries:
   web-demo:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2026-05-06T05:10:17.232890048Z"
+    description: A Helm chart for Kubernetes
+    digest: 556b014bce5fee2b44edc83546d9dd1daa746c2b21e2b555932d261be42dc70d
+    name: web-demo
+    type: application
+    urls:
+    - https://github.com/simonangel-fong/Demo_Helm_Public_Repo/releases/download/web-demo-0.2.2/web-demo-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2026-05-06T05:07:20.930506128Z"
     description: A Helm chart for Kubernetes
     digest: 50c8a6b720e2f77d7d9250de6f20e0b4a38a2501b0bb6475417e5828122a21dc
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/simonangel-fong/Demo_Argocd_Public_Repo/releases/download/web-demo-0.2.0/web-demo-0.2.0.tgz
     version: 0.2.0
-generated: "2026-05-06T05:07:20.930515305Z"
+generated: "2026-05-06T05:10:17.232916777Z"
